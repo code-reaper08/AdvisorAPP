@@ -14,7 +14,7 @@ async function getSUP() {
 			let msg = document.getElementById('quote');
 			msg.textContent = quotes;
 		}
-
+getSUP();
 
 
 
